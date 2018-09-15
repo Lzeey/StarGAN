@@ -1,4 +1,3 @@
 data
-data/*
-.vscode/*
-.ipynb_checkpoint/*
+.vscode
+.ipynb_checkpoint
